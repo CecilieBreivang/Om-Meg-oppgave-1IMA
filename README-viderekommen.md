@@ -52,4 +52,4 @@ Oppgaven leveres som lenken til repositoryet ditt på GitHub:
 
 1. Kontroller i GitHub Desktop at alle endringer er committet, og trykk **Push origin** slik at siste versjon ligger på GitHub.
 2. Åpne repositoryet på GitHub.com og sjekk at alle HTML-sider og bildemappen er der.
-3. Lever inn lenken til repositoryet innen [frist] via [innleveringssted]. Kontroller at læreren har tilgang til repositoryet.
+3. Lever inn lenken til repositoryet innen fristen på Teams. Kontroller at læreren har tilgang til repositoryet (public).
